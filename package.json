@@ -1,0 +1,29 @@
+{
+  "name": "react-native-llm-jobs-banner",
+  "version": "0.0.1",
+  "description": "Lalamove jobs banner (iOS and Android).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/7kfpun/react-native-llm-jobs-banner.git"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "author": {
+    "name": "kf",
+    "email": "7kfpun@gmail.com",
+    "url": "https://github.com/7kfpun"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/7kfpun/react-native-llm-jobs-banner",
+  "keywords": [
+    "lalamove",
+    "jobs",
+    "banner"
+  ]
+}
